@@ -18,20 +18,31 @@ Do not give up, and remember that **inappropriate use of statistical tools can h
 11. [Interpretation of a Mann Whitney Wilcoxon test](https://stats.stackexchange.com/questions/333561/interpretation-of-a-mann-whitney-wilcoxon-test)
 12. [Is my interpretation for Wilcoxon Signed Rank test correct?](https://stats.stackexchange.com/questions/407304/is-my-interpretation-for-wilcoxon-signed-rank-test-correct)
 13. Yoon-Jae Whang, Econometric Analysis of Stochastic Dominance. Concepts, Methods, Tools, and Applications, ISBN: 9781108602204. [page 64: Test of stochastic dominance: Basic results]
+
 ![obraz](https://user-images.githubusercontent.com/95669100/268412641-d00106ba-1fa2-4fc7-8bfd-93d39967f35d.png)
+
 (source: Google Books, https://books.google.pl/books?id=oMd6DwAAQBAJ&pg=PA64)
-14. (❗must-read) Edgar Brunner, Arne C. Bathke, Frank Konietschke,  Rank and Pseudo-Rank Procedures for Independent Observations in Factorial Designs. Using R and SAS
+
+15. (❗must-read) Edgar Brunner, Arne C. Bathke, Frank Konietschke,  Rank and Pseudo-Rank Procedures for Independent Observations in Factorial Designs. Using R and SAS
+
 ![obraz](https://user-images.githubusercontent.com/95669100/268413452-bdb58b70-b65a-47d9-8665-fb2451b517e9.png)
+
 _[page 135, 3.6 Consistency of Two-Sample Rank Tests]_
+
 ![obraz](https://user-images.githubusercontent.com/95669100/268414291-3df57532-3930-40d7-ad60-3d9aa14fd0b3.png)
+
 (source: Google Books, https://books.google.pl/books?id=t9KiDwAAQBAJ&pg=PA135)
 
 _[page 136, 3.6 Consistency of Two-Sample Rank Tests :: 3.6.1 Consistency of the WMW-Test]_
+
 ![obraz](https://user-images.githubusercontent.com/95669100/268414272-c1f6face-7bae-445b-be2d-6f0b2910882c.png)
+
 (source: Google Books, https://books.google.pl/books?id=t9KiDwAAQBAJ&pg=PA136)
 
 _[page 136, 3.6 Consistency of Two-Sample Rank Tests :: 3.6.2 Consistency of the Fligner–Policello and Brunner–Munzel Tests]_
+
 ![obraz](https://user-images.githubusercontent.com/95669100/268414246-1d9b63dc-50dc-4198-bd29-04e4e2aaad6c.png)
+
 (source: Google Books, https://books.google.pl/books?id=t9KiDwAAQBAJ&pg=PA137)
 
 ---
@@ -42,6 +53,9 @@ A few related topics. Read them too for a more comprehensive view:
 2. [Wilcoxon signed rank test - help on interpretation of pseudo median](https://stats.stackexchange.com/questions/404971/wilcoxon-signed-rank-test-help-on-interpretation-of-pseudo-median)
 3. [SAS documentation. The NPAR1WAY Procedure. Hodges-Lehmann Estimation of Location Shift](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.3/statug/statug_npar1way_details19.htm)
 4. Justin Sytsma, Jonathan Livengood, The Theory and Practice of Experimental Philosophy, ISBN13: 978-1554810086, [page 232, chapter 12]
+
 ![obraz](https://user-images.githubusercontent.com/95669100/268413229-a1b4bec9-016f-4fe9-8ba2-a56f1151eb13.png)
+
 (source: Google Books, https://books.google.pl/books?id=FzrsCgAAQBAJ&pg=PA232&lpg=PA232)
+
 5. [Unobvious problems of using the R's implementation of the Hodges-Lehmann estimator](https://aakinshin.net/posts/r-hodges-lehmann-problems/)
