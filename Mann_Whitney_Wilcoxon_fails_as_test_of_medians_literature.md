@@ -59,3 +59,4 @@ A few related topics. Read them too for a more comprehensive view:
 (source: Google Books, https://books.google.pl/books?id=FzrsCgAAQBAJ&pg=PA232&lpg=PA232)
 
 5. [Unobvious problems of using the R's implementation of the Hodges-Lehmann estimator](https://aakinshin.net/posts/r-hodges-lehmann-problems/)
+6. [Parameters behind “nonparametric” statistics: Kendall’s tau, Somers’ D and median differences](https://journals.sagepub.com/doi/pdf/10.1177/1536867X0200200103)
